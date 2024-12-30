@@ -256,11 +256,11 @@ exec --no-startup-id slack
 # for_window [class="Microsoft Teams - Preview"] move --no-auto-back-and-forth container to workspace number $ws5
 # exec --no-startup-id teams
 
-for_window [class="Element"] move --no-auto-back-and-forth container to workspace number $ws7
-exec --no-startup-id element-desktop
+# for_window [class="Element"] move --no-auto-back-and-forth container to workspace number $ws7
+# exec --no-startup-id element-desktop
 
-for_window [class="thunderbird"] move --no-auto-back-and-forth container to workspace number $ws10
-exec --no-startup-id element-desktop
+# for_window [class="thunderbird"] move --no-auto-back-and-forth container to workspace number $ws10
+# exec --no-startup-id thunderbird
 
 # for_window [class="firefox"] move --no-auto-back-and-forth container to workspace number $ws5
 # exec --no-startup-id firefox
